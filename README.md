@@ -23,3 +23,9 @@ cd test    # перейти в папку тест
 
    vim READMI.md
 
+
+### Работа с сетками
+
+* Чтобы создать новую ветку, необходимо прописать git checkout -b new-branc-name"
+* Чтобы переключиться на ветку: "git checkout branch branch name"
+* "git...
