@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+}
+
+tfoot {
+    border-collapse: collapse;
+}
+button{height: 32px;
+width: 32px;}
+
+input {
+    text-align: right;
+    with:100%;
+}
